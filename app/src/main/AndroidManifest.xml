@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="sg.edu.rp.c346.id18016204.mylocalbanks">
+    <uses-permission android:name = "android.permission.CALL_PHONE" />
 
     <application
         android:allowBackup="true"
